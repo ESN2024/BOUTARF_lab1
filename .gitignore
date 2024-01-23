@@ -74,7 +74,7 @@
 **/incremental_db/*
 **/db/*
 **/greybox_tmp/*
-**/output_files/*
+#**/output_files/*
 **/obj/*
 **/stamp/*
 **/.qsys_edit
