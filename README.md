@@ -27,4 +27,4 @@ https://github.com/ESN2024/BOUTARF_lab1/assets/121360725/b7ebfcce-9dc2-472b-beee
 
 
 # Conclusion
-
+En conclusion de ce TP et en utilisant des outils tels que Quartus, Pin Planner et Platform Designer, nous avons appris à décrire un système SPS sur le FPGA et à interfacer des périphériques externes. L'instanciation de blocs IP et la programmation en langage C avec la suite de bibliothèques HAL ont été des étapes clés, nous permettant de contrôler efficacement les périphériques. Cette expérience offre une base solide pour comprendre l'interaction entre le matériel programmable et le processeur Soft dans des environnements embarqués.
