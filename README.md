@@ -2,6 +2,8 @@
 
 # Introduction
 
+Durant ce projet on va faire de la conception conjointe impliquant un FPGA et un processeur Soft Nios2. À travers cette démarche, nous aborderons la création d'un système minimal où on va pouvoir changer la vitesse d'un chenillard à l'aide de 4 switchs, et le lancer avec un bouton poussoir. Nous instancierons les Switchs (SW) de la carte en tant que périphériques au Nios2. Quatre d'entre eux seront réservés à la gestion de la vitesse du chenillard, avec 4 niveaux de vitesses différents, programmés en code C. 
+
 # Présentation de l'architecture :
 
 
@@ -19,8 +21,10 @@ La figure ci-dessous présente le cablage du système sur QSYS, détaillant la c
 
 # Résultats :
 
+On peut voir, sur la vidéo ci-dessous, un chenillard qui change de vitesse à chaque fois qu'on change un switch. Le bouton poussoir a servi de lancer ke chenillard.
+
 https://github.com/ESN2024/BOUTARF_lab1/assets/121360725/b7ebfcce-9dc2-472b-beee-92484f70a4bf
 
 
-
 # Conclusion
+
